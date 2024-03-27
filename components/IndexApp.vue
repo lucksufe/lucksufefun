@@ -18,20 +18,22 @@ const props = defineProps<{
 <style scoped>
 .index-app {
     display: -webkit-flex;
-    position: relative;
     display: flex;
+    flex-direction: row;  
+    flex-wrap: wrap;
+    position: relative;
     align-items: center;
     justify-content: center;
     background-color: #fefaea;
     border-radius: 1rem;
     padding: 10px; 
+    margin: 10px;
     border-color: #f4eed6;
     border-width: 1px;
     border-style: solid;
     width: 150px;
     height: 150px;
-    flex-direction: row;  
-    flex-wrap: wrap  
+
 }
 .index-app img {
     background-color: #eee;
