@@ -36,13 +36,16 @@ const props = defineProps<{
 
 }
 .index-app img {
-    background-color: #eee;
     position: absolute;
     top: 35px;
     left: 35px;
     width: 100px;
     height: 100px;
+    transition: transform 0.5s ease-in-out;
 }   
+.index-app:hover img {
+    transform: scale(1.15);
+}
 p {
     width: 100%;
     text-align: center;
