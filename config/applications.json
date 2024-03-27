@@ -10,7 +10,7 @@
     {
         "title": "HuggingFace镜像站",
         "url": "https://hf-mirror.com/",
-        "icon": "https://hf-mirror.com/favicon.ico",
+        "icon": "/img/icons8-hugging-face.svg",
         "description": "非常有用的人工智能模型网站的国内镜像",
         "type": "link",
         "is_show": true
