@@ -1,0 +1,50 @@
+[
+    {
+        "title": "MegaBall",
+        "url": "megaball.html",
+        "icon": "/img/noguchi_128x128.png",
+        "description": "测试用",
+        "type": "pyxel",
+        "is_show": true
+    },
+    {
+        "title": "HuggingFace镜像站",
+        "url": "https://hf-mirror.com/",
+        "icon": "https://hf-mirror.com/favicon.ico",
+        "description": "非常有用的人工智能模型网站的国内镜像",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Github镜像站",
+        "url": "https://521github.com/",
+        "icon": "/img/github.svg",
+        "description": "非常有用的代码托管网站的国内镜像",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "蜜柑计划",
+        "url": "https://mikanani.hacgn.fun/",
+        "icon": "https://mikanani.hacgn.fun/favicon.ico",
+        "description": "非常棒的动漫分享网站",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "魔搭社区",
+        "url": "https://www.modelscope.cn/models",
+        "icon": "https://g.alicdn.com/sail-web/maas/1.11.42/favicon/128.ico",
+        "description": "国内比较好的分享AI模型的社区",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Bangumi番组计划",
+        "url": "https://bgm.tv/",
+        "icon": "https://bgm.tv/img/favicon.ico",
+        "description": "一个专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
+        "type": "link",
+        "is_show": true
+    }    
+]
