@@ -42,7 +42,7 @@
     {
         "title": "Bangumi番组计划",
         "url": "https://bgm.tv/",
-        "icon": "https://bgm.tv/img/favicon.ico",
+        "icon": "/img/bgm.png",
         "description": "一个专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
         "type": "link",
         "is_show": true
