@@ -1,9 +1,5 @@
 <template>	
-	<div ref="container">
-		<div id="nav-container">			
-			<IndexApp v-for="(app, i) in app_list" :idx="i" :appData="app"></IndexApp>
-		</div>
-	</div>
+	<IndexApp v-for="(app, i) in app_list" :idx="i" :appData="app"></IndexApp>
 </template>
 <script setup lang="ts">
 import app_list from '../config/applications.json'
