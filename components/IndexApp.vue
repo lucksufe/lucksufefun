@@ -24,16 +24,16 @@ const props = defineProps<{
     position: relative;
     align-items: center;
     justify-content: center;
-    background-color: #fefaea;
+    /* background-color: #fefaea; */
     border-radius: 1rem;
     padding: 10px; 
     margin: 10px;
-    border-color: #f4eed6;
+    border-color: #ffcc00;
     border-width: 1px;
     border-style: solid;
     width: 150px;
     height: 150px;
-
+    background-image: linear-gradient(135deg, rgb(216, 178, 8), rgb(254, 250, 234) 55% 90%, rgb(236, 178, 16) 100%);
 }
 .index-app img {
     position: absolute;

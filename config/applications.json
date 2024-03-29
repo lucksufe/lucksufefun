@@ -1,11 +1,27 @@
 [
     {
+        "title": "个人博客",
+        "url": "https://blog.lucksufe.fun/",
+        "icon": "https://blog.lucksufe.fun/favicon.svg",
+        "description": "施工中，还没有写内容，是默认模板",
+        "type": "link_blog",
+        "is_show": true
+    },
+    {
+        "title": "Gemini Pro",
+        "url": "https://app.lucksufe.fun/",
+        "icon": "https://app.lucksufe.fun/icon.svg",
+        "description": "自己搭建的Gemini Pro，使用的是Google免费API Key，每分钟60token。",
+        "type": "link",
+        "is_show": true
+    },
+    {
         "title": "MegaBall",
         "url": "megaball.html",
         "icon": "/img/noguchi_128x128.png",
         "description": "测试用",
-        "type": "pyxel",
-        "is_show": true
+        "type": "inner_pyxel",
+        "is_show": false
     },
     {
         "title": "HuggingFace镜像站",
@@ -44,6 +60,14 @@
         "url": "https://bgm.tv/",
         "icon": "/img/bgm.png",
         "description": "一个专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "CCTV直播",
+        "url": "https://tv.cctv.com/live/",
+        "icon": "/img/cctv.png",
+        "description": "CCTV直播",
         "type": "link",
         "is_show": true
     }    
