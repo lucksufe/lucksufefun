@@ -1,13 +1,5 @@
 [
     {
-        "title": "个人博客",
-        "url": "https://blog.lucksufe.fun/",
-        "icon": "https://blog.lucksufe.fun/favicon.svg",
-        "description": "施工中，还没有写内容，是默认模板",
-        "type": "link_blog",
-        "is_show": true
-    },
-    {
         "title": "Gemini Pro",
         "url": "https://app.lucksufe.fun/",
         "icon": "https://app.lucksufe.fun/icon.svg",
