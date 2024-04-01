@@ -21,7 +21,7 @@
         "icon": "/img/noguchi_128x128.png",
         "description": "测试用",
         "type": "inner_pyxel",
-        "is_show": false
+        "is_show": true
     },
     {
         "title": "HuggingFace镜像站",
