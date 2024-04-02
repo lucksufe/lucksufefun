@@ -8,6 +8,14 @@
         "is_show": true
     },
     {
+        "title": "Renpy文档",
+        "url": "https://doc.renpy.cn/zh-CN/",
+        "icon": "https://doc.renpy.cn/zh-CN/_static/navbar-logo.png",
+        "description": "目前在查的文档",
+        "type": "link",
+        "is_show": true
+    },
+    {
         "title": "MegaBall",
         "url": "megaball.html",
         "icon": "/img/noguchi_128x128.png",
