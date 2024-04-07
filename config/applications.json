@@ -24,6 +24,14 @@
         "is_show": false
     },
     {
+        "title": "SearXNG",
+        "url": "https://searxng.online/",
+        "icon": "https://searxng.online/static/themes/simple/img/favicon.png",
+        "description": "SearXNG搜索引擎的公共示例",
+        "type": "link",
+        "is_show": true
+    },
+    {
         "title": "HuggingFace镜像站",
         "url": "https://hf-mirror.com/",
         "icon": "/img/icons8-hugging-face.svg",
@@ -33,7 +41,7 @@
     },
     {
         "title": "Github镜像站",
-        "url": "https://521github.com/",
+        "url": "https://521github.com/trending",
         "icon": "/img/github.svg",
         "description": "非常有用的代码托管网站的国内镜像",
         "type": "link",
