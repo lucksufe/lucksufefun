@@ -102,6 +102,22 @@
         "description": "自用的域名控制台",
         "type": "link",
         "is_show": true
+    },
+    {
+        "title": "Civitai 反代",
+        "url": "https://civital.lucksufe.fun",
+        "icon": "/img/civitai.png",
+        "description": "Civitai 是一个专注于 AI 图像生成模型的网站。它提供了一个交互式平台，允许用户探索和使用各种 AI 图像生成模型",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Githubraw 反代",
+        "url": "https://github.lucksufe.fun",
+        "icon": "/img/github.svg",
+        "description": "自用的raw反代",
+        "type": "link",
+        "is_show": true
     }
     
 ]
