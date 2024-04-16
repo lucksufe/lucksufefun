@@ -6,6 +6,14 @@
         "description": "自己搭建的Gemini Pro，使用的是Google免费API Key，每分钟60token。",
         "type": "link",
         "is_show": true
+    },    
+    {
+        "title": "Godot文档",
+        "url": "https://docs.godotengine.org/zh-cn/4.x/",
+        "icon": "https://godotengine.org/assets/favicon.svg",
+        "description": "目前在查的文档",
+        "type": "link",
+        "is_show": true
     },
     {
         "title": "Renpy文档",
@@ -110,6 +118,5 @@
         "description": "Civitai 是一个专注于 AI 图像生成模型的网站。它提供了一个交互式平台，允许用户探索和使用各种 AI 图像生成模型",
         "type": "link",
         "is_show": true
-    }
-    
+    }    
 ]
