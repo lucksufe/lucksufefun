@@ -126,5 +126,21 @@
         "description": "Civitai 是一个专注于 AI 图像生成模型的网站。它提供了一个交互式平台，允许用户探索和使用各种 AI 图像生成模型",
         "type": "link",
         "is_show": true
-    }    
+    },
+    {
+        "title": "OpenGameArt",
+        "url": "https://opengameart.org/",
+        "icon": "https://opengameart.org/sites/default/files/archive/sara-logo.png",
+        "description": "一个在线平台，为游戏开发者提供免费和开源的游戏资产。",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "itch.io",
+        "url": "https://itch.io/",
+        "icon": "https://static.itch.io/images/itchio-textless-black.svg",
+        "description": "一个在线平台，专注于独立游戏和创意项目。它为游戏开发者提供了一个展示、发布和销售其作品的场所。",
+        "type": "link",
+        "is_show": true
+    }        
 ]
