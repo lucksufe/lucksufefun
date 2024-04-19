@@ -120,6 +120,14 @@
         "is_show": true
     },
     {
+        "title": "Openart 反代",
+        "url": "https://openart.ai/favicon/favicon.ico",
+        "icon": "https://github.lucksufe.fun/favicon/favicon.ico",
+        "description": "该网站提供了一个用户友好的界面，允许用户使用自然语言提示创建逼真的图像。",
+        "type": "link",
+        "is_show": true
+    },    
+    {
         "title": "OpenGameArt",
         "url": "https://opengameart.org/",
         "icon": "https://opengameart.org/sites/default/files/archive/sara-logo.png",
