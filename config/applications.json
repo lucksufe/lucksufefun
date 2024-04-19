@@ -14,14 +14,6 @@
         "description": "目前在查的文档",
         "type": "link",
         "is_show": true
-    },
-    {
-        "title": "Godot社区",
-        "url": "https://godot.gd/",
-        "icon": "https://godotengine.org/assets/favicon.svg",
-        "description":"godot开发讨论",
-        "type": "link",
-        "is_show": true
     },    
     {
         "title": "Renpy文档",
