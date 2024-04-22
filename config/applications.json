@@ -11,7 +11,7 @@
         "title": "Godot文档",
         "url": "https://docs.godotengine.org/zh-cn/4.x/",
         "icon": "https://godotengine.org/assets/favicon.svg",
-        "description": "目前在查的文档",
+        "description": "游戏引擎Godot的文档",
         "type": "link",
         "is_show": true
     },    
@@ -19,7 +19,15 @@
         "title": "Renpy文档",
         "url": "https://doc.renpy.cn/zh-CN/",
         "icon": "/img/renpy.png",
-        "description": "目前在查的文档",
+        "description": "视觉小说引擎Renpy的文档",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "ComfyUI手册",
+        "url": "https://www.comfyuidoc.com/zh/",
+        "icon": "https://www.comfyuidoc.com/favicon.ico",
+        "description": "节点管理AI绘图的WEBUI用户手册",
         "type": "link",
         "is_show": true
     },
