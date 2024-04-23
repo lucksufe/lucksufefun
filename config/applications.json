@@ -150,5 +150,21 @@
         "description": "一个在线平台，专注于独立游戏和创意项目。它为游戏开发者提供了一个展示、发布和销售其作品的场所。",
         "type": "link",
         "is_show": true
-    }        
+    },
+    {
+        "title": "Openposes",
+        "url": "https://openposes.com/",
+        "icon": "https://openposes.com/favicon-32x32.png",
+        "description": "OpenPose是一个开源计算机视觉库，用于人体姿态估计。它通过单色 2D 或 3D 图像分析人体姿势，并输出人体各部位的关键点坐标。",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "OpenPoseAi",
+        "url": "https://openposeai.com/",
+        "icon": "https://openposeai.com/icons/icon-144x144.png",
+        "description": "OpenPose AI 是一家总部位于西班牙巴塞罗那的计算机视觉和人工智能公司。它以其著名的开源人体姿态估计库 OpenPose 而闻名。",
+        "type": "link",
+        "is_show": true
+    }              
 ]
