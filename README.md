@@ -1,75 +1,20 @@
-# Nuxt 3 Minimal Starter
+# mini icon nav
+English | [中文](README_cn.md) 
+## Deploy
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Deploy With Netlify
 
-## Setup
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lucksufe/lucksufefun)
 
-Make sure to install the dependencies:
+### Deploy With Vercel
 
-```bash
-# npm
-npm install
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lucksufe/lucksufefun)
 
-# pnpm
-pnpm install
+Just click the button above and follow the instructions to deploy your own copy of the app.
 
-# yarn
-yarn install
+## How to use
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### 1.simply edit config/applications.json can change showing icon of your website
+### 2.replace public/favicon.ico can change logo of your website
+### 3.you can also add image or html file into public/ as static resource
+### 4.do anything you want
