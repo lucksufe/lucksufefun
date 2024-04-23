@@ -8,10 +8,9 @@ import app_list from '../config/applications.json'
 </script>
 <style>
 .index {
-	display: -webkit-flex;
-    display: flex;
-    flex-direction: row;  
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    justify-content: center;
 }
 body {
 	background-color: hsl(2, 57%, 40%);
