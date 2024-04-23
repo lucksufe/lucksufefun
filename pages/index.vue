@@ -11,6 +11,7 @@ import app_list from '../config/applications.json'
     display: grid;
     grid-template-columns: repeat(auto-fill, 200px);
     justify-content: space-evenly;
+	justify-items: center;
 }
 body {
 	background-color: hsl(2, 57%, 40%);
