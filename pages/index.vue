@@ -10,7 +10,7 @@ import app_list from '../config/applications.json'
 .index {
     display: grid;
     grid-template-columns: repeat(auto-fill, 200px);
-    justify-content: center;
+    justify-content: space-evenly;
 }
 body {
 	background-color: hsl(2, 57%, 40%);
