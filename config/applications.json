@@ -6,7 +6,23 @@
         "description": "自己搭建的Gemini Pro，使用的是Google免费API Key，每分钟60token。",
         "type": "link",
         "is_show": true
-    },    
+    },   
+    {
+        "title": "网盘资源",
+        "url": "https://pan.lucksufe.fun/",
+        "icon": "https://img.fre123.com/i/2024/03/31/6608d940b4fc5.jpg",
+        "description": "夸克网盘的资源索引",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "拼多多活动爬取",
+        "url": "https://pdd.lucksufe.fun/",
+        "icon": "https://funimg.pddpic.com/ddjb/3eb8c82e-d795-4ae1-8505-54f6d991e1fb.png.slim.png",
+        "description": "爬取的拼多多活动页面，每日更新",
+        "type": "link",
+        "is_show": true
+    }, 
     {
         "title": "Godot文档",
         "url": "https://docs.godotengine.org/zh-cn/4.x/",
@@ -30,14 +46,6 @@
         "description": "节点管理AI绘图的WEBUI用户手册",
         "type": "link",
         "is_show": true
-    },
-    {
-        "title": "MegaBall",
-        "url": "megaball.html",
-        "icon": "/img/noguchi_128x128.png",
-        "description": "测试用",
-        "type": "inner_pyxel",
-        "is_show": false
     },
     {
         "title": "SearXNG",
