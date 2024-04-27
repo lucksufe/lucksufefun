@@ -9,7 +9,7 @@ import app_list from '../config/applications.json'
 <style>
 .index {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 200px);
+    grid-template-columns: repeat(auto-fill, 180px);
     justify-content: space-evenly;
 	justify-items: center;
 }
