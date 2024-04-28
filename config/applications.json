@@ -6,6 +6,14 @@
         "description": "自己搭建的Gemini Pro，使用的是Google免费API Key，每分钟60token。",
         "type": "link",
         "is_show": true
+    },
+    {
+        "title": "个人笔记",
+        "url": "https://blog.lucksufe.fun/",
+        "icon": "https://docsify.js.org/_media/icon.svg",
+        "description": "使用docsify搭建的个人笔记",
+        "type": "link",
+        "is_show": true        
     },   
     {
         "title": "网盘资源",
