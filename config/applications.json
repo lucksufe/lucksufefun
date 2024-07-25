@@ -2,7 +2,7 @@
     {
         "title": "Memos小社区",
         "url": "https://x.lucksufe.fun/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Memos/icon.png",
+        "icon": "https://image.lucksufe.fun/app/thumb.php?img=/i/2024/07/25/idp29m.png",
         "description": "仿Twitter的小型社区，作为个人分享使用",
         "type": "link",
         "is_show": true
@@ -26,7 +26,7 @@
     {
         "title": "简单图床",
         "url": "https://image.lucksufe.fun/",
-        "icon": "https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/easyimage/icon.png",
+        "icon": "https://image.lucksufe.fun/i/2024/07/25/ic14o7.png",
         "description": "自建的图床应用",
         "type": "link",
         "is_show": true
@@ -42,7 +42,7 @@
     {
         "title": "PDF",
         "url": "https://pdf.lucksufe.fun/",
-        "icon": "https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/stirling-pdf/icon.webp",
+        "icon": "https://image.lucksufe.fun/i/2024/07/25/ic0vm8.webp",
         "description": "自己搭建的Stirling-PDF实例",
         "type": "link",
         "is_show": true
