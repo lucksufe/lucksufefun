@@ -1,9 +1,49 @@
-[
+[    
+    {
+        "title": "Memos小社区",
+        "url": "https://x.lucksufe.fun/",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Memos/icon.png",
+        "description": "仿Twitter的小型社区，作为个人分享使用",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "资源导航",
+        "url": "https://nav.lucksufe.fun/",
+        "icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
+        "description": "动漫影视小说的导航页面",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "网盘资源",
+        "url": "https://pan.lucksufe.fun/",
+        "icon": "https://s3.bmp.ovh/imgs/2024/05/13/97bf683fd14aba49.png",
+        "description": "夸克网盘的资源索引",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "简单图床",
+        "url": "https://image.lucksufe.fun/",
+        "icon": "https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/easyimage/icon.png",
+        "description": "自建的图床应用",
+        "type": "link",
+        "is_show": true
+    },  
     {
         "title": "Gemini Pro",
         "url": "https://app.lucksufe.fun/",
         "icon": "https://app.lucksufe.fun/icon.svg",
         "description": "自己搭建的Gemini Pro，使用的是Google免费API Key，每分钟60token。",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "PDF",
+        "url": "https://pdf.lucksufe.fun/",
+        "icon": "https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/stirling-pdf/icon.webp",
+        "description": "自己搭建的Stirling-PDF实例",
         "type": "link",
         "is_show": true
     },
@@ -14,22 +54,14 @@
         "description": "使用docsify搭建的个人笔记",
         "type": "link",
         "is_show": true        
-    },   
-    {
-        "title": "网盘资源",
-        "url": "https://pan.lucksufe.fun/",
-        "icon": "https://s3.bmp.ovh/imgs/2024/05/13/97bf683fd14aba49.png",
-        "description": "夸克网盘的资源索引",
-        "type": "link",
-        "is_show": false
-    },
+    },    
     {
         "title": "拼多多活动爬取",
         "url": "https://pdd.lucksufe.fun/",
         "icon": "https://funimg.pddpic.com/ddjb/3eb8c82e-d795-4ae1-8505-54f6d991e1fb.png.slim.png",
         "description": "爬取的拼多多活动页面，每日更新",
         "type": "link",
-        "is_show": true
+        "is_show": false
     }, 
     {
         "title": "Godot文档",
@@ -37,7 +69,7 @@
         "icon": "https://godotengine.org/assets/favicon.svg",
         "description": "游戏引擎Godot的文档",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },    
     {
         "title": "Renpy文档",
@@ -45,7 +77,7 @@
         "icon": "/img/renpy.png",
         "description": "视觉小说引擎Renpy的文档",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "ComfyUI手册",
@@ -53,15 +85,7 @@
         "icon": "https://www.comfyuidoc.com/favicon.ico",
         "description": "节点管理AI绘图的WEBUI用户手册",
         "type": "link",
-        "is_show": true
-    },
-    {
-        "title": "SearXNG",
-        "url": "https://searxng.online/",
-        "icon": "https://searxng.online/static/themes/simple/img/favicon.png",
-        "description": "SearXNG搜索引擎的公共示例",
-        "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "HuggingFace镜像站",
@@ -72,20 +96,12 @@
         "is_show": true
     },
     {
-        "title": "Github镜像站",
-        "url": "https://521github.com/trending",
-        "icon": "/img/github.svg",
-        "description": "非常有用的代码托管网站的国内镜像",
-        "type": "link",
-        "is_show": true
-    },
-    {
         "title": "蜜柑计划",
-        "url": "https://mikanani.hacgn.fun/",
-        "icon": "https://mikanani.hacgn.fun/favicon.ico",
+        "url": "https://mikanime.tv/",
+        "icon": "https://mikanime.tv/favicon.ico",
         "description": "非常棒的动漫分享网站",
         "type": "link",
-        "is_show": false
+        "is_show": true
     },
     {
         "title": "魔搭社区",
@@ -101,7 +117,7 @@
         "icon": "/img/bgm.png",
         "description": "一个专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
         "type": "link",
-        "is_show": false
+        "is_show": true
     },
     {
         "title": "CCTV直播",
@@ -133,31 +149,15 @@
         "icon": "https://cloudcache.tencent-cloud.com/qcloud/app/resource/ac/favicon.ico",
         "description": "自用的域名控制台",
         "type": "link",
-        "is_show": true
-    },
-    {
-        "title": "Civitai 反代",
-        "url": "https://civitai.lucksufe.fun",
-        "icon": "https://civitai.lucksufe.fun/images/android-chrome-192x192.png",
-        "description": "Civitai 是一个专注于 AI 图像生成模型的网站。它提供了一个交互式平台，允许用户探索和使用各种 AI 图像生成模型",
-        "type": "link",
         "is_show": false
     },
-    {
-        "title": "Openart 反代",
-        "url": "https://github.lucksufe.fun",
-        "icon": "https://github.lucksufe.fun/favicon/favicon.ico",
-        "description": "该网站提供了一个用户友好的界面，允许用户使用自然语言提示创建逼真的图像。",
-        "type": "link",
-        "is_show": false
-    },    
     {
         "title": "OpenGameArt",
         "url": "https://opengameart.org/",
         "icon": "https://opengameart.org/sites/default/files/archive/sara-logo.png",
         "description": "一个在线平台，为游戏开发者提供免费和开源的游戏资产。",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "itch.io",
@@ -165,7 +165,7 @@
         "icon": "https://static.itch.io/images/itchio-textless-black.svg",
         "description": "一个在线平台，专注于独立游戏和创意项目。它为游戏开发者提供了一个展示、发布和销售其作品的场所。",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "Openposes",
@@ -173,7 +173,7 @@
         "icon": "https://openposes.com/favicon-32x32.png",
         "description": "OpenPose是一个开源计算机视觉库，用于人体姿态估计。它通过单色 2D 或 3D 图像分析人体姿势，并输出人体各部位的关键点坐标。",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "OpenPoseAi",
@@ -181,6 +181,14 @@
         "icon": "https://openposeai.com/icons/icon-144x144.png",
         "description": "OpenPose AI 是一家总部位于西班牙巴塞罗那的计算机视觉和人工智能公司。它以其著名的开源人体姿态估计库 OpenPose 而闻名。",
         "type": "link",
+        "is_show": false
+    },
+    {
+        "title": "Gamer520",
+        "url": "https://www.gamer520.com/",
+        "icon": "https://www.gamer520.com/wp-includes/images/w-logo-blue-white-bg.png",
+        "description": "游戏资源网站，switch的资源非常全",
+        "type": "link",
         "is_show": true
-    }              
+    }                
 ]
