@@ -41,7 +41,7 @@
     },
     {
         "title": "PDF",
-        "url": "https://pdf.lucksufe.fun/",
+        "url": "https://pdf.lucksufe.fun/?lang=zh_CN",
         "icon": "https://image.lucksufe.fun/i/2024/07/25/ic0vm8.webp",
         "description": "自己搭建的Stirling-PDF实例",
         "type": "link",
