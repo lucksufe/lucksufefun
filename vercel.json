@@ -1,8 +1,15 @@
 {
     "routes": [
       {
-        "src": "/x/(.*)",
+        "src": "/routes/(.*)",
         "dest": "http://122.51.106.253:5230/$1"
+      }
+    ],
+    "redirects": [
+      { 
+        "source": "/x/(.*)", 
+        "destination": "http://122.51.106.253:5230/$1", 
+        "statusCode": 301 
       }
     ]
   }
