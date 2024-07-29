@@ -8,7 +8,7 @@
     "redirects": [
       { 
         "source": "/x/(.*)", 
-        "destination": "http://122.51.106.253:5230/$1", 
+        "destination": "http://122.51.106.253:5230/", 
         "statusCode": 301 
       }
     ]
