@@ -5,7 +5,7 @@
         "icon": "https://image.lucksufe.fun/app/thumb.php?img=/i/2024/07/25/idp29m.png",
         "description": "仿Twitter的小型社区，作为个人分享使用",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "资源导航",
@@ -45,7 +45,7 @@
         "icon": "https://image.lucksufe.fun/i/2024/07/25/ic0vm8.webp",
         "description": "自己搭建的Stirling-PDF实例",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "个人笔记",
