@@ -16,20 +16,12 @@
         "is_show": true
     },
     {
-        "title": "网盘资源",
-        "url": "https://pan.lucksufe.fun/",
-        "icon": "https://s3.bmp.ovh/imgs/2024/05/13/97bf683fd14aba49.png",
-        "description": "夸克网盘的资源索引",
-        "type": "link",
-        "is_show": true
-    },
-    {
         "title": "简单图床",
         "url": "https://image.lucksufe.fun/",
         "icon": "https://image.lucksufe.fun/i/2024/07/25/ic14o7.png",
         "description": "自建的图床应用",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },  
     {
         "title": "Gemini Pro",
