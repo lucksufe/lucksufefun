@@ -1,57 +1,106 @@
 <template>
-    <div class="index-app" v-show="appData.is_show" :title="appData.description">        
-        <a :href="appData.url" target="_blank">
-            <img :src="appData.icon"/>
-        </a>
-        <p>{{appData.title}}</p>
-    </div>
+    <a
+        class="index-app"
+        :href="appData.url"
+        target="_blank"
+        rel="noopener noreferrer"
+        :title="appData.description || appData.title"
+        :aria-label="appData.title"
+    >
+        <img :src="appData.icon" :alt="appData.title" loading="lazy" decoding="async" />
+        <p class="title">{{appData.title}}</p>
+    </a>
 </template>
 
-<!-- 动态加载了appData的数据，没有的话上面的appData.title会报错，因为没有appData -->
 <script setup lang="ts"> 
-const props = defineProps<{
-	appData: any,
-	idx: number
+defineProps<{
+    appData: {
+        title: string
+        url: string
+        icon: string
+        description?: string
+        type?: string
+        is_show?: boolean
+    }
 }>()
 </script>
 
 <style scoped>
 .index-app {
-    display: -webkit-flex;
     display: flex;
-    flex-direction: row;  
-    flex-wrap: wrap;
-    position: relative;
+    flex-direction: column;
+    gap: 10px;
     align-items: center;
     justify-content: center;
-    /* background-color: #fefaea; */
-    border-radius: 1rem;
-    padding: 10px; 
-    margin: 10px;
-    border-color: #ffcc00;
-    border-width: 1px;
-    border-style: solid;
-    width: 150px;
-    height: 150px;
-    background-image: linear-gradient(135deg, rgb(216, 178, 8), rgb(254, 250, 234) 55% 90%, rgb(236, 178, 16) 100%);
+    border-radius: 16px;
+    padding: 14px;
+    width: 160px;
+    height: 160px;
+    text-decoration: none;
+    color: inherit;
+    background: rgba(255, 255, 255, 0.08);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    backdrop-filter: blur(14px) saturate(140%);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow:
+        0 18px 40px rgba(0, 0, 0, 0.35),
+        inset 0 1px 0 rgba(255, 255, 255, 0.10);
+    transition: transform 180ms ease, box-shadow 180ms ease;
 }
 .index-app img {
-    position: absolute;
-    top: 35px;
-    left: 35px;
-    width: 100px;
-    height: 100px;
-    transition: transform 0.5s ease-in-out;
+    width: 72px;
+    height: 72px;
+    object-fit: contain;
+    filter: drop-shadow(0 10px 16px rgba(0, 0, 0, 0.35));
+    transition: transform 180ms ease;
 }   
-.index-app:hover img {
-    transform: scale(1.15);
+.index-app:hover {
+    transform: translateY(-3px);
+    box-shadow:
+        0 24px 54px rgba(0, 0, 0, 0.48),
+        inset 0 1px 0 rgba(255, 255, 255, 0.12);
 }
-p {
+.index-app:hover img {
+    transform: scale(1.06);
+}
+.index-app:active {
+    transform: translateY(-1px);
+}
+.index-app:focus-visible {
+    outline: 2px solid rgba(255, 255, 255, 0.85);
+    outline-offset: 4px;
+}
+.title {
+    margin: 0;
     width: 100%;
     text-align: center;
-    position: absolute;
-    top: 125px;
-    color     : #333;
-    font-size : 16px;
+    color: rgba(255, 255, 255, 0.88);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+@media (prefers-color-scheme: light) {
+    .index-app {
+        background: rgba(255, 255, 255, 0.58);
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        box-shadow:
+            0 16px 38px rgba(0, 0, 0, 0.10),
+            inset 0 1px 0 rgba(255, 255, 255, 0.65);
+    }
+    .index-app:hover {
+        box-shadow:
+            0 22px 54px rgba(0, 0, 0, 0.16),
+            inset 0 1px 0 rgba(255, 255, 255, 0.72);
+    }
+    .index-app:focus-visible {
+        outline: 2px solid rgba(0, 0, 0, 0.75);
+    }
+    .title {
+        color: rgba(10, 10, 12, 0.80);
+    }
 }
 </style>

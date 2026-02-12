@@ -12,8 +12,7 @@ useHead({
   ],
   bodyAttrs: {
     class: '导航'
-  },
-  script: [ { innerHTML: 'console.log(\'百亿补贴\')' } ]
+  }
 })
 useSeoMeta({
   title: '工具箱',
