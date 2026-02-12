@@ -1,12 +1,20 @@
 [    
     {
-        "title": "个人笔记",
+        "title": "小说",
         "url": "http://139.196.40.27:8086/",
         "icon": "https://docsify.js.org/_media/icon.svg",
-        "description": "使用docsify搭建的个人笔记",
+        "description": "使用docsify搭建的",
         "type": "link",
         "is_show": true        
-    },    
+    },
+    {
+        "title": "音乐",
+        "url": "http://139.196.40.27:9000/",
+        "icon": "/img/default-icon.svg",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
     {
         "title": "笔记",
         "url": "http://139.196.40.27:20268/",
