@@ -10,7 +10,7 @@
     {
         "title": "音乐",
         "url": "http://139.196.40.27:9000/",
-        "icon": "/img/default-icon.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/SwingMusic/icon.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -18,7 +18,7 @@
     {
         "title": "笔记",
         "url": "http://139.196.40.27:20268/",
-        "icon": "/img/default-icon.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Siyuan-Note/icon.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -26,15 +26,63 @@
     {
         "title": "Qbit",
         "url": "http://139.196.40.27:20269/",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/qBittorrent/icon.png",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Memos",
+        "url": "http://139.196.40.27:20270/",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Memos/icon.png",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "File Browser",
+        "url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/FileBrowser/icon.png",
         "icon": "/img/default-icon.svg",
         "description": "",
         "type": "link",
         "is_show": true
     },
     {
-        "title": "memos",
-        "url": "http://139.196.40.27:20270/",
+        "title": "Openlist",
+        "url": "http://139.196.40.27:20273/",
+        "icon": "https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/openlist/icon.png",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Qbit(aliyun)",
+        "url": "http://139.196.40.27:20274/",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/qBittorrent/icon.png",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Audio Book",
+        "url": "http://139.196.40.27:20275/",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Audiobookshelf/icon.png",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Comic",
+        "url": "http://139.196.40.27:20276/",
         "icon": "/img/default-icon.svg",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
+        "title": "Jackett",
+        "url": "http://139.196.40.27:20276/",
+        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Jackett/icon.png",
         "description": "",
         "type": "link",
         "is_show": true
