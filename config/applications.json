@@ -2,7 +2,7 @@
     {
         "title": "小说",
         "url": "http://139.196.40.27:8086/",
-        "icon": "https://docsify.js.org/_media/icon.svg",
+        "icon": "/img/docsify.svg",
         "description": "使用docsify搭建的",
         "type": "link",
         "is_show": true        
@@ -10,7 +10,7 @@
     {
         "title": "音乐",
         "url": "http://139.196.40.27:9000/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/SwingMusic/icon.png",
+        "icon": "/img/music.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -18,7 +18,7 @@
     {
         "title": "笔记",
         "url": "http://139.196.40.27:20268/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Siyuan-Note/icon.png",
+        "icon": "/img/siyuan.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -26,7 +26,7 @@
     {
         "title": "Qbit",
         "url": "http://139.196.40.27:20269/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/qBittorrent/icon.png",
+        "icon": "/img/qbit.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -34,7 +34,7 @@
     {
         "title": "Memos",
         "url": "http://139.196.40.27:20270/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Memos/icon.png",
+        "icon": "/img/memos.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -42,7 +42,7 @@
     {
         "title": "File Browser",
         "url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/FileBrowser/icon.png",
-        "icon": "/img/default-icon.svg",
+        "icon": "/img/filebrowser.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -50,7 +50,7 @@
     {
         "title": "Openlist",
         "url": "http://139.196.40.27:20273/",
-        "icon": "https://cdn.jsdelivr.net/gh/Cp0204/CasaOS-AppStore-Play@main/Apps/openlist/icon.png",
+        "icon": "/img/openlist.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -58,7 +58,7 @@
     {
         "title": "Qbit(aliyun)",
         "url": "http://139.196.40.27:20274/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/qBittorrent/icon.png",
+        "icon": "/img/qbit.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -66,7 +66,7 @@
     {
         "title": "Audio Book",
         "url": "http://139.196.40.27:20275/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Audiobookshelf/icon.png",
+        "icon": "/img/audiobook.png",
         "description": "",
         "type": "link",
         "is_show": true
@@ -82,7 +82,7 @@
     {
         "title": "Jackett",
         "url": "http://139.196.40.27:20276/",
-        "icon": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Jackett/icon.png",
+        "icon": "/img/jackett.png",
         "description": "",
         "type": "link",
         "is_show": true
