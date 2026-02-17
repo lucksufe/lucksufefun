@@ -77,7 +77,7 @@
         "icon": "/img/default-icon.svg",
         "description": "",
         "type": "link",
-        "is_show": true
+        "is_show": false
     },
     {
         "title": "Jackett",
