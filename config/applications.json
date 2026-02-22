@@ -72,16 +72,8 @@
         "is_show": true
     },
     {
-        "title": "Comic",
-        "url": "http://139.196.40.27:20276/",
-        "icon": "/img/default-icon.svg",
-        "description": "",
-        "type": "link",
-        "is_show": false
-    },
-    {
         "title": "Jackett",
-        "url": "http://139.196.40.27:20276/",
+        "url": "http://43.134.44.121:9117/",
         "icon": "/img/jackett.png",
         "description": "",
         "type": "link",
