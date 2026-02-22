@@ -41,7 +41,7 @@
     },
     {
         "title": "File Browser",
-        "url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/FileBrowser/icon.png",
+        "url": "http://139.196.40.27:20272/",
         "icon": "/img/filebrowser.png",
         "description": "",
         "type": "link",
