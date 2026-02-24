@@ -53,4 +53,10 @@ body {
             linear-gradient(180deg, #ffffff 0%, #f3f4f6 100%);
     }
 }
+@media (max-width: 420px) {
+    .index {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        padding: 18px;
+    }
+}
 </style>

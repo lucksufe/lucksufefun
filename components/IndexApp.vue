@@ -34,8 +34,9 @@ defineProps<{
     justify-content: center;
     border-radius: 16px;
     padding: 14px;
-    width: 160px;
-    height: 160px;
+    width: 100%;
+    max-width: 160px;
+    aspect-ratio: 1 / 1;
     text-decoration: none;
     color: inherit;
     background: rgba(255, 255, 255, 0.08);
