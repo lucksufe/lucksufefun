@@ -16,14 +16,6 @@
         "is_show": true
     },
     {
-        "title": "Duck AI",
-        "url": "https://duck.ai/",
-        "icon": "/img/duck.svg",
-        "description": "",
-        "type": "link",
-        "is_show": true
-    },
-    {
         "title": "DuckDuckGo",
         "url": "https://go.ps6.fun/",
         "icon": "/img/duck.svg",
