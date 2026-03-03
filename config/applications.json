@@ -24,6 +24,14 @@
         "is_show": true
     },
     {
+        "title": "DuckDuckGo",
+        "url": "https://go.ps6.fun/",
+        "icon": "/img/duck.svg",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
         "title": "Github热门",
         "url": "https://github.ps6.fun/trending",
         "icon": "/img/github.svg",
