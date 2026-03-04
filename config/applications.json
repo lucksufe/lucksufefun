@@ -24,6 +24,14 @@
         "is_show": true
     },
     {
+        "title": "DUCK AI",
+        "url": "https://duck.ai",
+        "icon": "/img/duck.svg",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
         "title": "笔记",
         "url": "http://139.196.40.27:20268/",
         "icon": "/img/siyuan.png",
