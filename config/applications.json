@@ -56,6 +56,14 @@
         "is_show": true
     },
     {
+        "title": "翻译",
+        "url": "http://139.196.40.27:20271/",
+        "icon": "/img/renpy.png",
+        "description": "",
+        "type": "link",
+        "is_show": true
+    },
+    {
         "title": "File Browser",
         "url": "http://139.196.40.27:20272/",
         "icon": "/img/filebrowser.png",
